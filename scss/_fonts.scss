@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Atyp BL Text';
+  src: url('../fonts/AtypText-Bold.woff2') format('woff2'),
+    url('../fonts/AtypText-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Atyp BL Text';
+  src: url('../fonts/AtypText-Semibold.woff2') format('woff2'),
+    url('../fonts/AtypText-SemiboldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Atyp BL Text';
+  src: url('../fonts/AtypText-Medium.woff2') format('woff2'),
+    url('../fonts/AtypText-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Atyp BL Text';
+  src: url('../fonts/AtypText-Regular.woff2') format('woff2'),
+    url('../fonts/AtypText-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+}
